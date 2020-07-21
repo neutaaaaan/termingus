@@ -11,3 +11,8 @@ On the other hand, I won't yell at you if you feel it deserves a proper build sy
 I have kept the old changelog attached, but all further modifications will be logged using `git`.
 
 Termingus is licensed under the SIL Open Font License, Version 1.1. The license is included as OFL.TXT, and is also available with a FAQ at http://scripts.sil.org/OFL
+
+
+[16px](pics/16px.png)
+[20px](pics/20px.png)
+[22px](pics/22px.png)
