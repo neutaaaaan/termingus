@@ -1,0 +1,24 @@
+2020-07-19 : modified j, normal and bold, sizes 16 and 20
+2020-07-13 : size 16 % 2 px tall dot instead of 3
+2020-07-03 : sync with 4.48
+
+size 22 : modified glyphs for f, l, i, t, %, ~.
+	l shifted left by 1 pixel.
+	made ● bigger to be more consistent with the other glyphs.
+	added onedotenleader normal and bold
+	taller braces, parentheses and brackets, normal and bold
+	mirrored flit changes in the latin extended character set
+
+size 20 : modified glyphs for f, l, i, j, t, %, ~.
+	l and t shifted left by 1 pixel
+	added hourglass
+	added onedotenleader normal and bold
+	taller braces, parentheses and brackets, normal and bold
+	mirrored flit changes in the latin extended character set
+
+size 16 : modified glyphs for f, l, i, j, t, %, ~.
+	i shifted left by 1 pixel
+	added hourglass
+	added onedotenleader normal and bold
+	taller braces, parentheses and brackets, normal and bold
+	mirrored flit changes in the latin extended character set
