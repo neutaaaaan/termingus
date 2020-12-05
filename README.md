@@ -10,6 +10,9 @@ On the other hand, I won't yell at you if you feel it deserves a proper build sy
 
 I have kept the old changelog attached, but all further modifications will be logged using `git`.
 
+The 32px version is ugly ugly ugly, but I prefer bold characters that are actually **bold**.
+It's also very incomplete. One day, maybe....
+
 Termingus is licensed under the SIL Open Font License, Version 1.1. The license is included as OFL.TXT, and is also available with a FAQ at http://scripts.sil.org/OFL
 
 
@@ -17,3 +20,4 @@ Termingus is licensed under the SIL Open Font License, Version 1.1. The license 
 [20px](pics/20px.png)
 [22px](pics/22px.png)
 [24px](pics/24px.png)
+[32px](pics/32px.png)
