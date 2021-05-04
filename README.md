@@ -20,4 +20,5 @@ Termingus is licensed under the SIL Open Font License, Version 1.1. The license 
 [20px](pics/20px.png)
 [22px](pics/22px.png)
 [24px](pics/24px.png)
+[28px](pics/28px.png)
 [32px](pics/32px.png)
